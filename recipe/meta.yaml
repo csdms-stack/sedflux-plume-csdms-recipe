@@ -13,9 +13,11 @@ requirements:
   build:
     - bmi-babel
     - sedflux
+    - glib
   run:
     - bmi-babel
     - sedflux
+    - glib
 
 test:
   requires:
