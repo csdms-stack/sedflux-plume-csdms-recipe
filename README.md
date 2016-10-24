@@ -1,6 +1,6 @@
 # Current Build Status
 
-Linux, OSX: [![Build Status](https://travis-ci.org/csdms-stack/csdms-sedflux-plume-recipe.svg?branch=master)](https://travis-ci.org/csdms-stack/csdms-sedflux-plume-recipe)
+Linux, OSX: [![Build Status](https://travis-ci.org/csdms-stack/sedflux-plume-csdms-recipe.svg?branch=master)](https://travis-ci.org/csdms-stack/sedflux-plume-csdms-recipe)
 
 # About csdms-sedflux-plume
 
